@@ -3,7 +3,7 @@ Auto Refund &amp; Auto Update Status For Orders in SMM Panel  <br />
 
 Features : <br />
 [-] Auto Update With Cronjobs  <br />
-[-] No Bug ( HOT )  <br />  <br />
+[-] No Bug <br />  <br />
 
 How to use?  <br />
 [-] Change tablename and variable $db this script  <br />
